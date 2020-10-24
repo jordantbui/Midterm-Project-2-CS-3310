@@ -9,8 +9,10 @@ Midterm Project 2
 
 Jordan Bui (BroncoID: 011821368)
 
-Sum Finder
+Sum Finder Program
 
-Displays the two numbers that add up to a given sum
-Tests Brute force for sorted and unsorted random arrays and the Hash Map method for sorted and unsorted random arrays.
-Hash Map is applied to both sorted and unsorted arrays.
+Given an array on numbers and a desired sum, this program searches the given array for any 2 numbers that add up to the given sum and displays the two numbers as well as the sum.
+- Tests Brute force for sorted and unsorted random arrays.
+- Tests Hash Map method for sorted and unsorted random arrays. (Same algorithm used for sorted and unsorted arrays)
+- Displays Run Times for each method tested on both sorted and unsorted arrays for all array sizes.
+- Array of numbers and sum are randomly generated.
