@@ -1,5 +1,5 @@
 # Midterm Project 2 - CS 3310
-# Sum Finder Brute Force & Hash Map Program
+# Sum Finder: Brute Force & Hash Map Program
 10/12/2020
 
 Jordan Bui (BroncoID: 011821368)
