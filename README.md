@@ -9,7 +9,7 @@ CS 3310 Design and Analysis of Algorithms
 
 Midterm Project 2 Code Implementation
 -
-Implements two different methods for finding a given sum between 2 numbers in a given array and returns the sum and the 2 numbers
+Implements two different methods for finding a given sum between 2 numbers in a given array and returns the sum and the 2 numbers.
 
 Sum Finder
 -
